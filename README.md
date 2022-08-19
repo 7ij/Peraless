@@ -6,3 +6,6 @@ Transmit synthesized text of "Android speech recognizer" to your Linux or old Wi
 # Naming Reason
 Before uploading the project to github, I didn't give it any name. Like all my project I gave it a randome name to this project "websocket" because I used websocket technology in this project and I was tweaking with it. And added a feature. And added another few feature...I achieved all the functionality I need but the name remained so far..
 Now while uploading this project, I thought I should give it a name. Since it reduced my "pera"(worries), I named it Peraless
+
+# Installation
+Currently to run this software, you have to download a version of QT and build the project(There might be another way). 

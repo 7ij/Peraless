@@ -1,0 +1,7 @@
+#include "clearpopupclass.h"
+
+clearPopUpClass::clearPopUpClass(QObject *parent) : QObject(parent)
+{
+
+}
+void
